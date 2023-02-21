@@ -3,8 +3,8 @@
  * main - A program that prints a code with puts function.
  * Return: 0 (Success)
  */
-int main(void)
+int main()
 {
-	puts("Programing is like building a multilingual puzzle");
+	puts("\"Programing is like building a multilingual puzzle");
 	return (0);
 }
